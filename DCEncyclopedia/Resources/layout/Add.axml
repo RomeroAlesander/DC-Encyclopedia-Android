@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/frameLayout1">
+    <TextView
+        p1:text="Add a new character"
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/textView1" />
+    <TextView
+        p1:text="Name:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/textView2"
+        p1:layout_marginTop="50dp" />
+    <EditText
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/txtName"
+        p1:layout_marginTop="100dp"
+        p1:layout_marginBottom="420dp" />
+    <TextView
+        p1:text="Description:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/textView3"
+        p1:layout_marginTop="180dp" />
+    <EditText
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/txtDescription"
+        p1:layout_marginBottom="190dp"
+        p1:layout_marginTop="220dp" />
+    <Button
+        p1:text="Save (Coming Soon)"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/btnSave"
+        p1:layout_marginTop="485dp"
+        p1:enabled="false" />
+</FrameLayout>

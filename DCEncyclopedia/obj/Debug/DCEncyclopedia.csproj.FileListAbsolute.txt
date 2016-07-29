@@ -1,0 +1,108 @@
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\DCEncyclopedia.csprojResolveAssemblyReference.cache
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia-Signed.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\SQLite-net.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\android\bin\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\layout\main.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\values\strings.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\R.cs.flag
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\uploadflags.txt
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\layout\character.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\splat.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\batman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\superman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\bane.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\adamstrange.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\alfredpennyworth.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\amandawaller.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\amazo.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\drawable\back.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\res\layout\menu.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\DCEncyclopedia.csprojResolveAssemblyReference.cache
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia-Signed.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\SQLite-net.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\android\bin\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\layout\main.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\values\strings.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\layout\character.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\splat.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\batman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\superman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\bane.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\adamstrange.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\alfredpennyworth.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\amandawaller.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\amazo.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\drawable\back.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\layout\menu.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\R.cs.flag
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\uploadflags.txt
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\layout\add.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\res\layout\about.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopedia - copia\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\com.alesinc.dc_encyclopedia-Signed.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\SQLite-net.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\DCEncyclopedia.pdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\android\bin\com.alesinc.dc_encyclopedia.apk
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\main.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\values\strings.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\character.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\splat.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\batman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\superman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\bane.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\adamstrange.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\alfredpennyworth.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\amandawaller.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\amazo.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\back.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\menu.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\add.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\about.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\aqualad.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\animalman.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\icon.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\layout\splash.xml
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\antimonitor.jpg
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\res\drawable\splashlogo.png
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\R.cs.flag
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\uploadflags.txt
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\obj\Debug\DCEncyclopedia.dll.mdb
+C:\Users\Alesander\Documents\Projects\DCEncyclopediaFINAL\DCEncyclopedia\bin\Debug\DCEncyclopedia.dll.mdb

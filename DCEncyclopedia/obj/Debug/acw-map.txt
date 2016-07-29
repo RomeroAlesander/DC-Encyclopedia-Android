@@ -1,0 +1,28 @@
+DCEncyclopedia.MainActivity, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.MainActivity
+DCEncyclopedia.MainActivity, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.MainActivity
+DCEncyclopedia.MainActivity;md5a918b1ce51186a2313297f9067dddfd5.MainActivity
+dcencyclopedia.MainActivity;md5a918b1ce51186a2313297f9067dddfd5.MainActivity
+DCEncyclopedia.SuperheroesDatabase, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.SuperheroesDatabase
+DCEncyclopedia.SuperheroesDatabase, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.SuperheroesDatabase
+DCEncyclopedia.SuperheroesDatabase;md5a918b1ce51186a2313297f9067dddfd5.SuperheroesDatabase
+dcencyclopedia.SuperheroesDatabase;md5a918b1ce51186a2313297f9067dddfd5.SuperheroesDatabase
+DCEncyclopedia.Characters, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.Characters
+DCEncyclopedia.Characters, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.Characters
+DCEncyclopedia.Characters;md5a918b1ce51186a2313297f9067dddfd5.Characters
+dcencyclopedia.Characters;md5a918b1ce51186a2313297f9067dddfd5.Characters
+DCEncyclopedia.About, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.About
+DCEncyclopedia.About, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.About
+DCEncyclopedia.About;md5a918b1ce51186a2313297f9067dddfd5.About
+dcencyclopedia.About;md5a918b1ce51186a2313297f9067dddfd5.About
+DCEncyclopedia.AddNew, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.AddNew
+DCEncyclopedia.AddNew, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.AddNew
+DCEncyclopedia.AddNew;md5a918b1ce51186a2313297f9067dddfd5.AddNew
+dcencyclopedia.AddNew;md5a918b1ce51186a2313297f9067dddfd5.AddNew
+DCEncyclopedia.Splash, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.Splash
+DCEncyclopedia.Splash, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.Splash
+DCEncyclopedia.Splash;md5a918b1ce51186a2313297f9067dddfd5.Splash
+dcencyclopedia.Splash;md5a918b1ce51186a2313297f9067dddfd5.Splash
+DCEncyclopedia.Menu, DCEncyclopedia;md5a918b1ce51186a2313297f9067dddfd5.Menu
+DCEncyclopedia.Menu, DCEncyclopedia, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a918b1ce51186a2313297f9067dddfd5.Menu
+DCEncyclopedia.Menu;md5a918b1ce51186a2313297f9067dddfd5.Menu
+dcencyclopedia.Menu;md5a918b1ce51186a2313297f9067dddfd5.Menu
